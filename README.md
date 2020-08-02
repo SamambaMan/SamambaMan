@@ -15,7 +15,7 @@ I'm a Data Engineer, Sr. Python developer and Data Team Leader, based in Rio de 
 #### 🌎 Find me around the web:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/felipevieiraferreira/">LinkedIn</a> (this needs some serious updates 😜)
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/samambaman">Spotify</a>
-- 📸 If you seek for some food, pc building and some randomnes, try my <a href="https://www.instagram.com/paocomdoisovos/">Instagram</a>
+- 📸 If you seek for some food, pc building and randomnes, try my <a href="https://www.instagram.com/paocomdoisovos/">Instagram</a>
 
 #### 📔 I'm reading... :
  - The Metaphysicos of Sexual Love - Arthur Schopenhauer
