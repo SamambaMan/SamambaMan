@@ -18,7 +18,8 @@ I'm a Data Engineer, Sr. Python developer and Data Team Leader, based in Rio de 
 - 📸 If you seek for some food, pc building and randomnes, try my <a href="https://www.instagram.com/paocomdoisovos/">Instagram</a>
 
 #### 📔 I'm reading... :
- - The Metaphysicos of Sexual Love - Arthur Schopenhauer
- - The Dictators - Richard J. Overy
+ - Linked: How Everything Is Connected to Everything Else and What It Means for Business - Albert-Laszlo Barabasi
 ##### Just Finished:
  - La Mediación de conflictos ambientales - Sidney Rosa Junior
+ - The Metaphysicos of Sexual Love - Arthur Schopenhauer
+ - The Dictators - Richard J. Overy
