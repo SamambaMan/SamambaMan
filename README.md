@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe Ferreira! 👋
 
 
-I'm a Data Engineer, Sr. Python developer and Data Team Leader, based in Rio de Janeiro, Brazil!
+I'm a Data Engineer, Sr. Python developer and Data Team Leader, based in Best (yes, it is a city name, best city :P), Netherlands!!
 
 - 🔭 I’m currently working at @CycloMedia as Python Developer on the Data Analytics team
 - 🌱 I’m currently learning some Computer Vision Basics, Machine Learning, random Virtualization and Dockerization 
@@ -13,14 +13,11 @@ I'm a Data Engineer, Sr. Python developer and Data Team Leader, based in Rio de 
 
 
 #### 🌎 Find me around the web:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/felipevieiraferreira/">LinkedIn</a> (this needs some serious updates 😜)
-- 📸 If you seek for some food, pc building and randomnes, try my <a href="https://www.instagram.com/paocomdoisovos/">Instagram</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/felipevieiraferreira/">LinkedIn</a>
+- 📸 If you seek for some food, pc building and randomnes, try my <a href="https://www.instagram.com/ovoscombaconnn/">Instagram</a>
 
 #### 📔 I'm reading... :
- - A República das Milícias - Bruno Paes Manso
- - Position Estimation of Mobile Laser Scanner using Aerial Imagery - Syed Zille Hussnain
+ - Starship Troopers - Robert A. Heinlein
 ##### Just Finished:
- - Linked: How Everything Is Connected to Everything Else and What It Means for Business - Albert-Laszlo Barabasi
- - La Mediación de conflictos ambientales - Sidney Rosa Junior
- - The Metaphysicos of Sexual Love - Arthur Schopenhauer
- - The Dictators - Richard J. Overy
+ - A República das Milícias - Bruno Paes Manso
+ 
